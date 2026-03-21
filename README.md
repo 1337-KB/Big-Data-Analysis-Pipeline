@@ -1,11 +1,6 @@
 # Retail Bank Customer Analytics
 ### SYST52461 – Big Data Storage and Analysis | Term Project
 
-## Team Members
-- [Member 1 Name]
-- [Member 2 Name]
-- [Member 3 Name]
-- [Member 4 Name]
 
 ## Scenario
 This project models a retail banking environment to analyze customer financial 
