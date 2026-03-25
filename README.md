@@ -1,6 +1,10 @@
 # Retail Bank Customer Analytics
 ### SYST52461 – Big Data Storage and Analysis | Term Project
 
+## Team Members
+- Frimpong Evans Boateng
+- Austine Itua
+- Samrat Das
 
 ## Scenario
 This project models a retail banking environment to analyze customer financial 
